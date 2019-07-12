@@ -1,0 +1,20 @@
+{
+  "name": "jsprimepallendromes",
+  "version": "1.0.0",
+  "description": "aThing",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^24.8.0",
+    "pryjs": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
